@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            <state relative-caret-position="453">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -69,11 +69,6 @@
             <path>
               <item name="Week 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Week 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Week 2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -159,16 +154,15 @@
       <workItem from="1552409498385" duration="2005000" />
       <workItem from="1552470944169" duration="1073000" />
       <workItem from="1552472549145" duration="147000" />
-      <workItem from="1552472766052" duration="9129000" />
+      <workItem from="1552472766052" duration="12650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64181000" />
+    <option name="totallyTimeSpent" value="67702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="916" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936143" type="SLIDING" weight="0.26172465" />
       <window_info id="Structure" order="1" sideWeight="0.50063854" side_tool="true" weight="0.247851" />
@@ -185,15 +179,15 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007163" side_tool="true" weight="0.29185867" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="11" weight="0.26309067" />
-      <window_info anchor="bottom" auto_hide="true" x="-756" y="490" width="1396" height="263" id="Terminal" order="12" type="SLIDING" weight="0.3257066" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="13" visible="true" weight="0.23754789" />
+      <window_info active="true" anchor="bottom" auto_hide="true" x="-756" y="490" width="1396" height="263" id="Terminal" order="12" type="SLIDING" visible="true" weight="0.3256705" />
+      <window_info anchor="bottom" id="Python Console" order="13" visible="true" weight="0.23754789" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="News Feed" order="3" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.48849106" type="SLIDING" weight="0.3409742" />
-      <window_info anchor="right" x="-718" y="222" width="365" height="643" id="SciView" order="5" sideWeight="0.5514593" visible="true" weight="0.3366762" />
-      <window_info anchor="right" x="0" y="0" width="314" height="716" id="Documentation" order="6" sideWeight="0.44854072" side_tool="true" visible="true" weight="0.36686838" />
+      <window_info anchor="right" x="-718" y="222" width="365" height="643" id="SciView" order="5" sideWeight="0.54941374" visible="true" weight="0.3366762" />
+      <window_info anchor="right" x="0" y="0" width="314" height="716" id="Documentation" order="6" sideWeight="0.45058626" side_tool="true" visible="true" weight="0.3366762" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936143" type="SLIDING" weight="0.26172465" />
@@ -224,6 +218,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -259,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        <state relative-caret-position="453">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
