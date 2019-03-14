@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="598681e9-7349-4ef1-a5ac-b5efaba00fce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Program.py" beforeDir="false" afterPath="$PROJECT_DIR$/Program.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,10 +19,29 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Program.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+            <state relative-caret-position="2933">
+              <caret line="357" lean-forward="true" selection-start-line="357" selection-end-line="357" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#2215#2471#0" />
+                <element signature="e#2838#3363#0" />
+                <element signature="e#3738#5161#0" />
+                <element signature="e#5356#7301#0" />
+                <element signature="e#5356#6455#1" />
+                <element signature="e#8032#9113#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/logistic_regression/LogisticRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="e#0#47#0" expanded="true" />
+                <element signature="e#3579#4660#0" />
               </folding>
             </state>
           </provider>
@@ -47,6 +67,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/logistic_regression/__init__.py" />
+        <option value="$PROJECT_DIR$/logistic_regression/optimize.py" />
+        <option value="$PROJECT_DIR$/logistic_regression/Optimize.py" />
+        <option value="$PROJECT_DIR$/logistic_regression/sigmoid.py" />
+        <option value="$PROJECT_DIR$/logistic_regression/initialize_with_zeros.py" />
+        <option value="$PROJECT_DIR$/logistic_regression/LogisticRegression.py" />
         <option value="$PROJECT_DIR$/Program.py" />
       </list>
     </option>
@@ -63,6 +89,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,11 +97,15 @@
               <item name="Week 2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Week 2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Week 2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="logistic_regression" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -154,17 +185,19 @@
       <workItem from="1552409498385" duration="2005000" />
       <workItem from="1552470944169" duration="1073000" />
       <workItem from="1552472549145" duration="147000" />
-      <workItem from="1552472766052" duration="12650000" />
+      <workItem from="1552472766052" duration="14096000" />
+      <workItem from="1552581048254" duration="11914000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67702000" />
+    <option name="totallyTimeSpent" value="81062000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936143" type="SLIDING" weight="0.26172465" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936143" type="SLIDING" weight="0.26146132" />
       <window_info id="Structure" order="1" sideWeight="0.50063854" side_tool="true" weight="0.247851" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.260745" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -179,15 +212,15 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007163" side_tool="true" weight="0.29185867" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="11" weight="0.26309067" />
-      <window_info active="true" anchor="bottom" auto_hide="true" x="-756" y="490" width="1396" height="263" id="Terminal" order="12" type="SLIDING" visible="true" weight="0.3256705" />
+      <window_info anchor="bottom" auto_hide="true" x="-756" y="490" width="1396" height="263" id="Terminal" order="12" type="SLIDING" weight="0.3256705" />
       <window_info anchor="bottom" id="Python Console" order="13" visible="true" weight="0.23754789" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="News Feed" order="3" />
       <window_info anchor="right" id="Database" order="4" sideWeight="0.48849106" type="SLIDING" weight="0.3409742" />
-      <window_info anchor="right" x="-718" y="222" width="365" height="643" id="SciView" order="5" sideWeight="0.54941374" visible="true" weight="0.3366762" />
-      <window_info anchor="right" x="0" y="0" width="314" height="716" id="Documentation" order="6" sideWeight="0.45058626" side_tool="true" visible="true" weight="0.3366762" />
+      <window_info active="true" anchor="right" x="-718" y="222" width="365" height="643" id="SciView" order="5" sideWeight="0.5477387" visible="true" weight="0.33882523" />
+      <window_info anchor="right" x="0" y="0" width="314" height="716" id="Documentation" order="6" sideWeight="0.4522613" side_tool="true" visible="true" weight="0.33882523" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49936143" type="SLIDING" weight="0.26172465" />
@@ -244,6 +277,20 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -277,12 +324,46 @@
     <entry file="file://$PROJECT_DIR$/images/img2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/logistic_regression/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic_regression/sigmoid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic_regression/initialize_with_zeros.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic_regression/LogisticRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+            <element signature="e#3579#4660#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="2933">
+          <caret line="357" lean-forward="true" selection-start-line="357" selection-end-line="357" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#2215#2471#0" />
+            <element signature="e#2838#3363#0" />
+            <element signature="e#3738#5161#0" />
+            <element signature="e#5356#7301#0" />
+            <element signature="e#5356#6455#1" />
+            <element signature="e#8032#9113#0" />
           </folding>
         </state>
       </provider>
